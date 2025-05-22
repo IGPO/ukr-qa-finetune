@@ -1,0 +1,11 @@
+transformers==4.39.3
+datasets
+peft
+accelerate
+bitsandbytes
+scipy
+scikit-learn
+sentencepiece
+gradio
+torch
+torchvision
