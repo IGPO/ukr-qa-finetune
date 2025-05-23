@@ -12,7 +12,11 @@ This project demonstrates a complete pipeline for fine-tuning a language model t
 
 ## 🚀 Try it now
 
+Text extraction
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IGPO/ukr-qa-finetune/blob/main/notebooks/extract_text.ipynb)
+
+QA generation
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IGPO/ukr-qa-finetune/blob/main/notebooks/generate_qa.ipynb)
 
 ## 🗂 Project structure
 ukr-qa-finetune/
